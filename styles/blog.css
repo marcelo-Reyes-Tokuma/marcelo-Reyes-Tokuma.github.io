@@ -1,0 +1,50 @@
+body {
+  background-color: #efedec;
+}
+
+.main-header-box {
+  padding: 40px 40px 40px 40px;
+  margin: 40px 40px 40px 40px;
+  background-color: #cbe8c0;
+  border: 1px gainsboro;
+  width: 250px;
+  text-align: center;
+  color: black;
+}
+
+.menu-layout {
+  background-color: #cbe8c0;
+  width: 150px;
+  padding: 20px 20px 20px 20px;
+  margin: 40px 40px 40px 40px;
+  text-align: center;
+}
+
+.link-list {
+  text-align: left;
+}
+
+.border-1 {
+  border-color: burlywood;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 20px;
+}
+
+.flex-box {
+  display: flex;
+  justify-self: space-between;
+  gap: 28px;
+  align-items: center;
+}
+.home-page-paragraph {
+  width: 20%;
+  text-align: center;
+  background-color: white;
+  padding: 20px 20px 20px 20px;
+  margin: 30px 30px 30px 30px;
+}
+
+.container {
+  width: 100%;
+}
