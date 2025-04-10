@@ -2,6 +2,14 @@ body {
   background-color: #efedec;
 }
 
+/* Phones */
+@media only screen and (max-width: 400px) {
+}
+
+/* Tablets */
+
+/* Computers */
+
 .main-header-box {
   padding: 40px 40px 40px 40px;
   margin: 40px 40px 40px 40px;
@@ -37,6 +45,7 @@ body {
   gap: 28px;
   align-items: center;
 }
+
 .home-page-paragraph {
   width: 20%;
   text-align: center;
