@@ -1,3 +1,9 @@
 Similarities
 
-Margin, Padding  and Boarder 
+Boarders, padding's, and margins are ways to create spaces between the contents of the box
+And the surrounding elements. The reason why they aren't all the same is because they allow 
+For the manipulation of varying effects.
+
+Differences 
+
+How they differentiate are as follows: The space between content and the boarders itself is called padding. The boarder is the outside and can be styled, with colours and other effects. The margin is what keeps boxes from each other. 
