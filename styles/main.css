@@ -39,6 +39,15 @@ body {
   border-radius: 20px;
 }
 
+.border-2 {
+  border-color: burlywood;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 20px;
+  margin: 30px 30px 30px 30px;
+  width: 20%;
+  align: middle;
+}
 .flex-box {
   display: flex;
   justify-self: space-between;
