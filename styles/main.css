@@ -66,3 +66,11 @@ body {
 .container {
   width: 100%;
 }
+
+.home-page-paragraph-2 {
+  width: 40%;
+  text-align: center;
+  background-color: white;
+  padding: 20px 20px 20px 20px;
+  margin: 30px 30px 30px 30px;
+}
