@@ -74,3 +74,7 @@ body {
   padding: 20px 20px 20px 20px;
   margin: 30px 30px 30px 30px;
 }
+
+.left-aligned {
+  text-align: left;
+}
